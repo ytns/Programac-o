@@ -1,2 +1,3 @@
-# Programac-o
+pensamentocomputacional
+
 Criando minha página
